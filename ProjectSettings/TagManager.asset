@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Building
+  - Dealer
+  - UICamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - LevelFloor
+  - LevelBuilding
+  - PlayerAndChief
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: LevelFloor
+    uniqueID: 149356945
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SpecialEffects
+    uniqueID: 3667615079
+    locked: 0
+  - name: UI
+    uniqueID: 2197915845
+    locked: 0
